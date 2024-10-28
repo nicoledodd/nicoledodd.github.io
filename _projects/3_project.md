@@ -5,7 +5,7 @@ description: Investigating how social factors mediate vocal alignment to virtual
 img: assets/img/voiceAI.jpg
 importance: 3
 category: work
-related_publications: frontiers2023
+related_publications: true
 ---
 
 The use of voice artificial intelligence (voice-AI) – in the form of virtual assistants such as Amazon’s Alexa or Apple’s Siri – has grown increasingly common in recent years. Current research indicates that social factors that mediate linguistic accommodation during human–human communication, such as gender and likability, also mediate human–voice-AI communication; however, the magnitude of these effects differs from what we see in human-human communication. We further investigate the question of how human–voice-AI communication differs from human-human communication by testing whether variation in alignment toward speakers of different dialects is similar in apparent device and apparent human model talkers.
