@@ -1,81 +1,14 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Programming Language Processing
+description: Do humans process code in the same way that they process natural languages?
+img: assets/img/code.jpg
 importance: 2
 category: work
-giscus_comments: true
+related_publications: 
 ---
+An interesting new question in the field of human language processing is the question of human processing of programming languages, or code. Programming has primarily been viewed through the lens of problem-solving, and the “language” component of programming is often overlooked; however, natural and programming languages are similar in many ways. With the rise of the prevalence of programming, including proposals to recognize programming languages as a type of “foreign language” in secondary education, researchers have recognized the need to further explore the cognitive processes involved in processing programming languages.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+An interesting new question in the field of human language processing is the question of human processing of programming languages, or code. Programming has primarily been viewed through the lens of problem-solving, and the “language” component of programming is often overlooked; however, natural and programming languages are similar in many ways. With the rise of the prevalence of programming, including proposals to recognize programming languages as a type of “foreign language” in secondary education, researchers have recognized the need to further explore the cognitive processes involved in processing programming languages.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+Our research aims to leverage psycholinguistic methods to determine whether processing strategies applied by humans to *natural* language are also used in the human processing of *programming* languages. In a first step toward answering this question, we test whether regularization of dispreferred constituent orderings, a phenomenon common in natural language processing, also occurs in programming language processing. Our future research will then test whether humans experience processing difficulty when reading less predictable code, in a similar way as they do when reading less predictable natural text. The outcomes of this research will elucidate our understanding of how humans process code, and will have implications for existing pedagogical practices in computer science classes.
