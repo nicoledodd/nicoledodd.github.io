@@ -12,3 +12,11 @@ When it comes to understanding language, a big question is how we make sense of 
 Difficult sentences can even lead to misunderstandings. For example, someone might read the second sentence and mistakenly think the reporter is the one who attacked the senator, rather than the other way around. This could happen for a couple of reasons. First, the subtle change in word order is easy to overlook. Alternatively, research suggests that sometimes people read a sentence correctly but later adjust their understanding based on how common certain structures are.
 
 In my research, I explored how people read and understand tricky sentences, focusing on Arabic. I looked at how long people took to read these sentences and tracked their eye movements. After reading, I asked them comprehension questions to check their understanding. I wanted to find out whether misunderstandings came from misreading the sentences or just settling for a “good enough” interpretation. I also examined how readers’ expectations shape their understanding, especially when the input is confusing.
+
+All code and analyses for this project can be found on my GitHub profile:
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/github-lang-processing-arabic.jpg" title="GitHub repository" class="img-fluid rounded z-depth-1" href="https://github.com/nicoledodd/lang-processing-arabic"%}
+    </div>
+</div>
