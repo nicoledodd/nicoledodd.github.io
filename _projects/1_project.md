@@ -16,10 +16,8 @@ In my research, I explored how people read and understand tricky sentences, focu
 
 All code and analyses for this project can be found [on my GitHub page](https://github.com/nicoledodd/lang-processing-arabic).
 
-<div class="container">
-    <div class="row">
-        <div class="col-sm-4">
+<div class="row">
+    <div class="col-sm-6">
         {% include figure.liquid loading="eager" path="assets/img/github-lang-processing-arabic.jpg" title="GitHub repository" class="img-fluid rounded z-depth-1" %}
-        </div>
     </div>
 </div>
