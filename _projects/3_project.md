@@ -1,13 +1,27 @@
 ---
 layout: page
-title: Human Interaction with Voice-AI
-description: Investigating how social factors mediate vocal alignment to virtual assistants
+title: Human interaction with voice-AI
+description: How do our social identities affect how we interact with virtual assistants?
 img: assets/img/voiceAI.jpg
 importance: 3
 category: work
 related_publications: true
 ---
 
-The use of voice artificial intelligence (voice-AI) – in the form of virtual assistants such as Amazon’s Alexa or Apple’s Siri – has grown increasingly common in recent years. Current research indicates that social factors that mediate linguistic accommodation during human–human communication, such as gender and likability, also mediate human–voice-AI communication; however, the magnitude of these effects differs from what we see in human-human communication. We further investigate the question of how human–voice-AI communication differs from human-human communication by testing whether variation in alignment toward speakers of different dialects is similar in apparent device and apparent human model talkers.
+Voice artificial intelligence (voice-AI), like Amazon's Alexa and Apple's Siri, is becoming more prevalent in our daily lives. Recent research highlights that social factors, such as gender and likability, influence how we communicate with virtual assistants, much like human-to-human interactions.
 
-We conducted a shadowing task in which participants engaged in a question-and-answer “conversation” with text-to-speech (TTS) voices in British, American, and Indian dialects of English. To test the effect of a speaker’s top-down knowledge of the model talker’s guise, TTS voices were presented in either an authentic guise (i.e., as a device) or an inauthentic guise (i.e., as a human). A separate group of raters judged perceptual similarity between pre- and post-exposure productions and the model talkers’ production as an assessment of convergence. We find that participants converge more toward Indian English voices and diverge from American English voices; additionally, participants aligned more toward TTS voices when they were presented as human talkers, compared to when they were presented as device talkers. Our findings demonstrate that further research must be done in this area to better understand how humans interact with voice-AI, and how their attitudes mediate these interactions. The outcomes of this research has implications for the design of voice-AI products, and can point to areas where technology can improve to improve overall human experiences with virtual assistants.
+To explore this phenomenon, we conducted a study where people engaged in a question-and-answer session with virtual assistant voices representing British, American, and Indian English dialects. We tested how the perceived identity of the voice — whether it sounded like a device or a human — and the voice's dialect affected participants' responses. We found that people had the most positive experiences with voices in the Indian English dialect, and shifted their speech to be more like those voices. On the other hand, people had the *least* positive experiences with voices in the American English dialect, and shifted their speech to be less like those voices. 
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-3">
+        {% include figure.liquid loading="eager" path="assets/img/Skype-device.jpg" title="Skype photo for device interaction" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-3">
+        {% include figure.liquid loading="eager" path="assets/img/sample-interaction.jpg" title="sample interaction" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The study simulated a conversation with a virtual assistant to provide a naturalistic environment for the interaction.
+</div>
+
+Our results underscore the need for further research into human-voice-AI interactions and how social attitudes shape these exchanges. Understanding these dynamics can guide the design of more effective voice-AI products, ultimately enhancing user experiences with virtual assistants. This is crucial for the development of intuitive and relatable voice-AI technologies to serve varying global cultures.

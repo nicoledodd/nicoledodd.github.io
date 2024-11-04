@@ -9,3 +9,15 @@
 "zellou":
   - firstname: ["Georgia", "G.", "G. Z.", "Georgia Zellou"]
     url: https://scholar.google.com/citations?user=rU_6fE0AAAAJ&hl=en&oi=ao
+
+"boush":
+  - firstname: ["Fatima", "F.", "F. B.", "Fatima Boush"]
+    url: https://scholar.google.com/citations?user=WEQSusoAAAAJ&hl=en&oi=ao
+
+"leung":
+  - firstname: ["Tommi", "T.", "T. L.", "Tommi Leung"]
+    url: https://scholar.google.com/citations?user=8fH6qFUAAAAJ&hl=en&oi=ao
+
+"ferreira":
+  - firstname: ["Fernanda", "F.", "F. F.", "Fernanda Ferreira"]
+    url: https://scholar.google.com/citations?user=c3-_R14AAAAJ&hl=en
