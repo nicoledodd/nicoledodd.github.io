@@ -12,11 +12,11 @@ Voice artificial intelligence (voice-AI), like Amazon's Alexa and Apple's Siri, 
 
 To explore this phenomenon, we conducted a study where people engaged in a question-and-answer session with virtual assistant voices representing British, American, and Indian English dialects. We tested how the perceived identity of the voice — whether it sounded like a device or a human — and the voice's dialect affected participants' responses. We found that people had the most positive experiences with voices in the Indian English dialect, and shifted their speech to be more like those voices. On the other hand, people had the *least* positive experiences with voices in the American English dialect, and shifted their speech to be less like those voices. 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-3">
+<div class="row justify-content-md-center">
+    <div class="col-md-4">
         {% include figure.liquid loading="eager" path="assets/img/Skype-device.jpg" title="Skype photo for device interaction" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-3">
+    <div class="col-md-4">
         {% include figure.liquid loading="eager" path="assets/img/sample-interaction.jpg" title="sample interaction" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
