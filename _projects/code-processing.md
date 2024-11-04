@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Programming Language Processing
-description: Do humans process code in the same way that they process natural languages?
+title: Reading and understanding code
+description: Do humans read and understand code in the same way that they read and understand natural language?
 img: assets/img/code.jpg
 importance: 2
 category: work
