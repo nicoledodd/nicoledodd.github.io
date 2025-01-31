@@ -5,7 +5,7 @@ description: What happens in our brain when we read and understand language?
 img: assets/img/arabic.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 When it comes to understanding language, a big question is how we make sense of sentences. For most fluent speakers, reading feels easy, but not all sentences are created equal. Take these two examples: "The reporter who attacked the senator admitted the error" is pretty straightforward. In contrast, "The reporter who the senator attacked admitted the error" can be confusing. Because the first structure is more common, we naturally expect it, so when we see the second one, it throws us off, making it harder to process.
 

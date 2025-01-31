@@ -5,7 +5,7 @@ description: How do our social identities affect how we interact with virtual as
 img: assets/img/voiceAI.jpg
 importance: 3
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Voice artificial intelligence (voice-AI), like Amazon's Alexa and Apple's Siri, is becoming more prevalent in our daily lives. Recent research highlights that social factors, such as gender and likability, influence how we communicate with virtual assistants, much like human-to-human interactions.
